@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Current projects:
+BasedCast
+  - Self-hosted radio service, written in rust
+  - Early alpha
 <!--
 **rpgwaiter/rpgwaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
