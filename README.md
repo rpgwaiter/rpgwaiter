@@ -1,7 +1,7 @@
 Current projects:
-BasedCast
+BasedCast/BasedRadio
   - Self-hosted radio service, written in rust
-  - Early alpha
+  - Working on reproducable dev env
 <!--
 **rpgwaiter/rpgwaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
