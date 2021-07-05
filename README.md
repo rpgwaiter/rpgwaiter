@@ -2,6 +2,10 @@ THIS ACCOUNT IS MOSTLY DEAD
 
 Active development has moved to a self-hosted Gitea instance at: https://git.based.zone
 
+CI/CD will move from GitHub Actions to a Concourse instance once setup.
+
+I will keep this account for contributions to FOSS projects hosted here, but my personal projects will not continue here.
+
 This move was influenced by a number of factors, but GitHub/Microsoft's use of hosted code to train AI is among them. 
 
 <!--
