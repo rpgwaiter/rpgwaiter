@@ -1,7 +1,9 @@
-Current projects:
-BasedCast/BasedRadio
-  - Self-hosted radio service, written in rust
-  - Working on reproducable dev env
+THIS ACCOUNT IS MOSTLY DEAD
+
+Active development has moved to a self-hosted Gitea instance at: https://git.based.zone
+
+This move was influenced by a number of factors, but GitHub/Microsoft's use of hosted code to train AI is among them. 
+
 <!--
 **rpgwaiter/rpgwaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
