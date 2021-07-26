@@ -1,6 +1,8 @@
-THIS ACCOUNT IS MOSTLY DEAD
+This account is used solely to contribute to other FOSS hosted here.
 
-Active development has moved to a self-hosted Gitea instance at: https://git.based.zone
+Active development has moved to a self-hosted Gitea instance at: https://git.based.zone.
+
+Projects hosted here on GH will soon only contain links to my hosted repo.
 
 CI/CD will move from GitHub Actions to a Concourse instance once setup.
 
