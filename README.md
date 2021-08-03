@@ -4,12 +4,6 @@ Active development on personal projects has moved to a self-hosted Gitea instanc
 
 Projects hosted here on GH will soon only contain links to my hosted repo.
 
-CI/CD will move from GitHub Actions to a Concourse instance once setup.
-
-I will keep this account for contributions to FOSS projects hosted here, but my personal projects will not continue here.
-
-This move was influenced by a number of factors, but GitHub/Microsoft's use of hosted code to train AI is among them. 
-
 <!--
 **rpgwaiter/rpgwaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
